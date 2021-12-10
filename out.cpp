@@ -2,5 +2,6 @@
 
 int main(){
     TicTac tic;
-    tic.intro();
+
+    tic.play();
 }
